@@ -7,7 +7,7 @@ import SearchBar from "../components/common/SearchBar";
 import {
   sampleResources,
   sampleSkills,
-} from "../data/sampleData";
+} from "../Data/sampleData";
 
 import "../styles/marketplace.css";
 
